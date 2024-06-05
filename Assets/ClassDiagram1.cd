@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimationEventHandler">
+    <Position X="22.25" Y="11.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AnimationEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonFlowerClick">
+    <Position X="10.75" Y="11.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonFlowerClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragAndSwapGrow">
+    <Position X="19.75" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BQCAAAAIACAAABAAAAAAAAAgIAAAAAQAIAAQAAACEAA=</HashCode>
+      <FileName>Assets\Scripts\DragAndSwapGrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragAndSwapSell">
+    <Position X="19.75" Y="15.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BQCAAAAIACAAABAAAAAAAAAgIAAAAAQAIAAQAAACEAA=</HashCode>
+      <FileName>Assets\Scripts\DragAndSwapSell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragHandler">
+    <Position X="17.5" Y="15.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BQCAAAAIACAAABAAQAAAAAAAIgAAAAUAIAAQAAACEAA=</HashCode>
+      <FileName>Assets\Scripts\DragHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellFlowerComponent" Collapsed="true">
+    <Position X="14" Y="13" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FlowerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrowFlowerComponent" Collapsed="true">
+    <Position X="14" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FlowerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrowSelectedFlowerComponent" Collapsed="true">
+    <Position X="14" Y="14.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAABAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FlowerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SellSelectedFlowerComponent" Collapsed="true">
+    <Position X="14" Y="16.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAABAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FlowerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flower" Collapsed="true">
+    <Position X="7" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAgACAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameData" Collapsed="true">
+    <Position X="7" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEMCAPwAgAAAAAgASAADwDwMAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveManager" Collapsed="true">
+    <Position X="2.75" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAABAEAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainScript">
+    <Position X="2.75" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>SS3fFP/LALxyUD42NUlXZJJCdzfeGjtpGP93OwcFL1Q=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwipeHandler">
+    <Position X="17.5" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ARCAAAAAACAAABAAAQYAAAAAIEAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\SwipeHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GrowShelfObject">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QKABAAAABAAAAAAACgAAAAAAAAgAAEAoKAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GrowSelectedFlowerObject">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKABAABABAAAAAAACgAAAAAAAAgAAAAgCAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SellShelfObject">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKABBABABAAAAAAACgAQCAAAAAgAAAAoKAAAAgAAgAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SellSelectedFlowerObject">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKABAAAABAAAAAAACgAAAAAAAAgAAAAgCAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BalanseObject">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SeedsObject">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
